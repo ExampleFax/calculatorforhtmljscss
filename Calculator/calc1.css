@@ -1,0 +1,52 @@
+body {
+	background: black;
+	text-align: center;
+	background: lightgreen;
+	padding: 150px;
+}
+
+.button {
+	border: solid;
+	border-radius: 20px 0 0 0;
+	height: 60px;
+	width: 60px;
+}
+
+input {
+	margin: 2px;
+	cursor: pointer;
+	height: 30px;
+	width: 300px;
+}
+
+.buttonminus {
+	background: red;
+	border: solid;
+	border-radius: 20px 0 20px 0;
+	height: 60px;
+	width: 60px;
+}
+
+.buttonplus {
+	border: solid;
+	border-radius: 20px 0 20px 0;
+	height: 60px;
+	width: 60px;
+	background: green;
+}
+
+.buttonreset {
+	border: solid;
+	border-radius: 20px 0 20px 0;
+	height: 60px;
+	width: 60px;
+	background: gray;
+}
+
+.buttonrovno {
+	border: solid;
+	border-radius: 20px 0 20px 0;
+	height: 60px;
+	width: 60px;
+	background: lightblue;
+}
